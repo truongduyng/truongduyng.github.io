@@ -10,11 +10,10 @@ url: "http://ntduy.github.io"
 
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
+github_username:  ntduy
 disqus_shortname: freshman21
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
+aboutme:
 aboutme_photo: https://i.imgur.com/15BT1.jpg # your photo.
 
 
@@ -37,19 +36,6 @@ locales:
       PostedInCategories: "Posted in"
       Taggedwith: "and tagged"
       PostDate: "on "
-    cn:
-      Aboutme: "关于我"
-      Archives: "存档"
-      Blogroll: "良师益友"
-      Categories: "分类目录"
-      Copyright_Notice: "版权声明"
-      Resent_Posts: "近期文章"
-      Tags: "标签"
-      Previous: "前一页"
-      Next: "后一页"
-      PostedInCategories: "目录:"
-      Taggedwith: "| 标签:"
-      PostDate: "| 发表时间: "
 
 
 ### your Blogroll info, only name can shown on the page.
@@ -58,9 +44,6 @@ Blogroll:
     - name: Nguyen Truong Duy
       href: http://ntduy.github.io
       title: Another Jekyll blog theme
-    - name: author's website
-      href: http://yulijia.net/
-      title: Lijia Yu's website
 
 
 ### Build settings
