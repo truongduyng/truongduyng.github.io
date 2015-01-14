@@ -6,23 +6,30 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: 'Open Sans', sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.6em;
 
-$spacing-unit:     30px;
+$spacing-unit:     15px;
 
 $text-color:       #111;
-$background-color: #fdfdfd;
+$background-color: #f9f9f9;
 $brand-color:      #2a7ae2;
+$brand-top-color:  #2583ad;
+$hover-color:      #DD1144;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$code-backgroud-color: #29281e;
+$code-font-color:  #eee;  
+
+
 // Width of the content area
-$content-width:    800px;
+$content-width:    960px;
+$page-width:       1000px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -48,5 +55,8 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "_syntax-highlighting-native" // "syntax-highlighting"
 ;
+
+@import url('http://fonts.googleapis.com/css?family=Open+Sans');
+

@@ -1,20 +1,37 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    {% include header.html %}
+<div class="container">
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+  {% include header.html %}
+
+  {% if site.default_column == "two" %}  
+
+  <div class="page-content col-sm-8">
+    {{ content }}
+    {% include post_pagination.html %}
+  </div>
+  {% include sidebar.html %}
+
+  {% else %}
+
+  <div class="page-content">
+    <div class="wrapper">
+      {{ content }}
     </div>
+  </div>
+  {% include post_pagination.html %}
 
-    {% include footer.html %}
+  {% endif %}
 
-  </body>
+  {% include footer.html %}
+
+</div>
+
+</body>
 
 </html>
