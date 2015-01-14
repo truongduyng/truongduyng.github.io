@@ -1,0 +1,13 @@
+# Site settings
+title: Nguyen Truong Duy' Pages
+email: truongduyng@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ This is my technical blog.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ntduy.github.io" # the base hostname & protocol for your site
+github_username:  ntduy
+
+# Build settings
+markdown: kramdown
+pygments:         false
+highlighter:      rouge
