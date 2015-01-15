@@ -47,6 +47,7 @@ sudo apt-get install git
 
 3. Third step: init, commit and push your project to github'repo.
 	On terminal, run these command:
+
 	Initialized git:
 	```
 	git init
@@ -67,7 +68,7 @@ sudo apt-get install git
 	git commit -m "Your message":
 	```
 
-	push or up files to GitHub's repo using your user:
+	Push or up files to GitHub's repo using your user:
 	```
 	git push -u origin master
 	```
