@@ -45,38 +45,27 @@ sudo apt-get install git
 	git config --global user.email "Your.email@example.org"
 	```
 
-3. Third step: init, commit and push your project to github'repo
+3. Third step: init, commit and push your project to github'repo.
 	On terminal, run these command:
 
 	```
 	git init
 	```
-
-	: Initialized git
-
-
 	```
 	git add .
 	```
-
 	: Add all files in folder to git
-
 	```
 	git remote add origin https://github.com/ntduy/demo.git
 	```
-
 	: choose repo to work.
-
 	```
 	git commit -m "Your message"
 	```
-
 	: Commit with your message. Your files are not on github now.
-
 	```
 	git push -u origin master
 	```
-
 	: push or up files to GitHub's repo using your user.
 
 Thanks for reading! :)
