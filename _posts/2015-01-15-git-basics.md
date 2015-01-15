@@ -1,6 +1,6 @@
 ---
 published: true
-title: Git ang Github basics
+title: Git and Github basics
 layout: post
 author: Duy
 category: Git
@@ -33,13 +33,19 @@ sudo apt-get install git
 
 Log in Github and create a repository. Just new and give it a name. For examples: demorepo
 
-2.Second step: Congig Git
+2.Second step: Config Git
 
 	Open terminal and run these command to configure the user which will be used by Git.
 
-	* ``` git config --global user.name "Your username" ```
+	*
+	```
+	git config --global user.name "Your username"
+	```
 
-	* ``` git config --global user.email "Your.email@example.org"```
+	*
+	```
+	git config --global user.email "Your.email@example.org"
+	```
 
 3.Third step: init, commit and push your project to github'repo
 	On terminal, run these command:
