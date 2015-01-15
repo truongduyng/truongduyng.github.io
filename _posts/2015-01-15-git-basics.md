@@ -47,26 +47,26 @@ sudo apt-get install git
 
 3. Third step: init, commit and push your project to github'repo.
 	On terminal, run these command:
-
+	Initialized git:
 	```
 	git init
 	```
+	Add all files in folder to git:
 	```
 	git add .
 	```
-	: Add all files in folder to git
+	Choose repo for work:
 	```
-	git remote add origin https://github.com/ntduy/demo.git
+	git remote add origin https://github.com/ntduy/demo.git:
 	```
-	: choose repo to work.
+	Commit with your message. Your files are not on github now.
 	```
-	git commit -m "Your message"
+	git commit -m "Your message":
 	```
-	: Commit with your message. Your files are not on github now.
+	push or up files to GitHub's repo using your user:
 	```
 	git push -u origin master
 	```
-	: push or up files to GitHub's repo using your user.
 
 Thanks for reading! :)
 
