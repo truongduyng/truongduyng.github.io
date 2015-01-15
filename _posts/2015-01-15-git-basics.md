@@ -29,11 +29,11 @@ sudo apt-get install git
 
 #### Basic usage of git and github
 
-1.First step: Creating a Repo in GitHub
+1. First step: Creating a Repo in GitHub
 
 Log in Github and create a repository. Just new and give it a name. For examples: demorepo
 
-2.Second step: Config Git
+2. Second step: Config Git
 
 	Open terminal and run these command to configure the user which will be used by Git.
 
@@ -47,35 +47,31 @@ Log in Github and create a repository. Just new and give it a name. For examples
 	git config --global user.email "Your.email@example.org"
 	```
 
-3.Third step: init, commit and push your project to github'repo
+3. Third step: init, commit and push your project to github'repo
 	On terminal, run these command:
 
-	*
 	```
 	git init
 
 	```
 	: Initialized git
 
-	*
+
 	```
 	git add .
 	```
 	: Add all files in folder to git
 
-	*
 	```
 	git remote add origin https://github.com/ntduy/demo.git
 	```
 	: choose repo to work.
 
-	*
 	```
 	git commit -m "Your message"
 	```
 	: Commit with your message. Your files are not on github now.
 
-	*
 	```
 	git push -u origin master
 	```
