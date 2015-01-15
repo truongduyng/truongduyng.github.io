@@ -14,7 +14,7 @@ github_username:  ntduy
 disqus_shortname: freshman21
 favicon:     "/images/favicon.ico"
 aboutme:
-aboutme_photo: https://i.imgur.com/15BT1.jpg # your photo.
+aboutme_photo: https://lh6.googleusercontent.com/-ZtnchZinRzA/VDSZgBK9IKI/AAAAAAAAABM/MqAWQsK9Eyc/w140-h140-p/Tet2013_Phoninh.jpg # your photo.
 
 
 ### Site setting:
@@ -42,8 +42,8 @@ locales:
 
 Blogroll:
     - name: Nguyen Truong Duy
-      href: http://ntduy.github.io
-      title: Another Jekyll blog theme
+      href: http://ntduy.blogspot.com
+      title: My blogspot
 
 
 ### Build settings
