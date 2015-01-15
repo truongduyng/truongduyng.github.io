@@ -37,12 +37,11 @@ Log in Github and create a repository. Just new and give it a name. For examples
 
 	Open terminal and run these command to configure the user which will be used by Git.
 
-	*
 	```
 	git config --global user.name "Your username"
 	```
 
-	*
+
 	```
 	git config --global user.email "Your.email@example.org"
 	```
@@ -54,27 +53,32 @@ Log in Github and create a repository. Just new and give it a name. For examples
 	git init
 
 	```
+
 	: Initialized git
 
 
 	```
 	git add .
 	```
+
 	: Add all files in folder to git
 
 	```
 	git remote add origin https://github.com/ntduy/demo.git
 	```
+
 	: choose repo to work.
 
 	```
 	git commit -m "Your message"
 	```
+
 	: Commit with your message. Your files are not on github now.
 
 	```
 	git push -u origin master
 	```
+
 	: push or up files to GitHub's repo using your user.
 
 Thanks for reading! :)
