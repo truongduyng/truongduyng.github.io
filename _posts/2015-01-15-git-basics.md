@@ -51,7 +51,6 @@ Log in Github and create a repository. Just new and give it a name. For examples
 
 	```
 	git init
-
 	```
 
 	: Initialized git
