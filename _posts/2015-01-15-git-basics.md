@@ -72,7 +72,12 @@ sudo apt-get install git
 	```
 	git push -u origin master
 	```
+
+Here is Oliver Steele's image of how all it all fits together:
+
 ![Git data transport commands](http://i.stack.imgur.com/XwVzT.png "Oliver Steele's image")
+
+
 Thanks for reading! :)
 
 
