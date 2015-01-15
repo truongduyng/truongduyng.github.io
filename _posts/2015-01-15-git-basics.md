@@ -51,18 +51,22 @@ sudo apt-get install git
 	```
 	git init
 	```
+
 	Add all files in folder to git:
 	```
 	git add .
 	```
+
 	Choose repo for work:
 	```
 	git remote add origin https://github.com/ntduy/demo.git:
 	```
+
 	Commit with your message. Your files are not on github now.
 	```
 	git commit -m "Your message":
 	```
+
 	push or up files to GitHub's repo using your user:
 	```
 	git push -u origin master
