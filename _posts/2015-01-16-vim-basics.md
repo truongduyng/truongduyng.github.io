@@ -39,9 +39,9 @@ Run these command in terminal
 	* ``` P ``` → paste before, remember p is paste after current position.
   * ``` u ``` → undo.
   * ``` <C-r> ``` → redo.
-  * ``` :e ```: <path/to/file> → open
+  * ``` :e ``` → <path/to/file> → open
   * ``` :w ``` → save
-  * ``` :saveas ```: <path/to/file> → save to <path/to/file>
+  * ``` :saveas ``` → <path/to/file> → save to <path/to/file>
   * ``` :x, ZZ or :wq ``` → save and quit (:x only save if necessary)
   * ``` :q! ``` → quit without saving, also: :qa! to quit even if there are modified hidden buffers.
   * ``` bn (resp. :bp) ``` → show next (resp. previous) file (buffer)
