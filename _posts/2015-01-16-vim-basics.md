@@ -16,9 +16,9 @@ Vim editor is a powerful editor, specialy working with server. You may love it.
 
 Run these command in terminal
 
-```	sudo apt-get update	``` to make sure you have the updated sources.list
+```sudo apt-get update``` to make sure you have the updated sources.list
 
-```	sudo apt-get install vim ``` to install vim.
+```sudo apt-get install vim``` to install vim.
 
 
 ### Open a file and do simple with it
@@ -51,4 +51,5 @@ Run these command in terminal
   * ``` :x, ZZ or :wq ``` → save and quit (:x only save if necessary)
   * ``` :q! ``` → quit without saving, also: :qa! to quit even if there are modified hidden buffers.
   * ``` bn (resp. :bp) ``` → show next (resp. previous) file (buffer)
+
 
