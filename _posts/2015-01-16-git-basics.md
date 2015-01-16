@@ -23,9 +23,9 @@ Github is a code host, a place to share with everybody. It uses git. Creating a 
 
 On Ubuntu and similar systems you can install the Git command line tool via the following command:
 
-	```
+```
 	sudo apt-get install git
-	```
+```	
 
 #### Basic usage of git and github
 
