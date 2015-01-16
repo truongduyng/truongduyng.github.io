@@ -8,15 +8,21 @@ tags: Vim
 ---
 
 ### Vim editor
+
 Vim editor is a powerful editor, specialy working with server. You may love it.
 
+
 ### How to install it in Ubuntu
+
 Run these command in terminal
 
-```	sudo apt-get update	``` to make sure you have the updated sources.list. 
+```	sudo apt-get update	``` to make sure you have the updated sources.list.
+
 ```	sudo apt-get install vim ``` to install vim.
 
+
 ### Open a file and do simple with it
+
 
 1. Open a file and type something.
 
