@@ -16,7 +16,7 @@ Vim editor is a powerful editor, specialy working with server. You may love it.
 
 Run these command in terminal
 
-```	sudo apt-get update	``` to make sure you have the updated sources.list.
+```	sudo apt-get update	``` to make sure you have the updated sources.list
 
 ```	sudo apt-get install vim ``` to install vim.
 
