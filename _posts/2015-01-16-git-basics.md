@@ -41,44 +41,42 @@ On Ubuntu and similar systems you can install the Git command line tool via the 
 	git config --global user.name "Your username"
 	```
 
-
 	```
 	git config --global user.email "Your.email@example.org"
 	```
 
-3. Third step: init, commit and push your project to github'repo
+3. Third step: init, commit and push your project to github'repo.
 	On terminal, run these command:
 
+	Initialized git:
 	```
 	git init
 	```
 
-	: Initialized git
-
-
+	Add all files in folder to git:
 	```
 	git add .
 	```
 
-	: Add all files in folder to git
-
+	Choose repo for work:
 	```
-	git remote add origin https://github.com/ntduy/demo.git
-	```
-
-	: choose repo to work.
-
-	```
-	git commit -m "Your message"
+	git remote add origin https://github.com/ntduy/demo.git:
 	```
 
-	: Commit with your message. Your files are not on github now.
+	Commit with your message. Your files are not on github now.
+	```
+	git commit -m "Your message":
+	```
 
+	Push or up files to GitHub's repo using your user:
 	```
 	git push -u origin master
 	```
 
-	: push or up files to GitHub's repo using your user.
+Here is Oliver Steele's image of how all it all fits together:
+
+![Git data transport commands](http://i.stack.imgur.com/XwVzT.png "Oliver Steele's image")
+
 
 Thanks for reading! :)
 
