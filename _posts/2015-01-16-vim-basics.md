@@ -51,5 +51,3 @@ Run these command in terminal
   * ``` :x, ZZ or :wq ``` → save and quit (```:x``` only save if necessary)
   * ``` :q! ``` → quit without saving, also: ```:qa!``` to quit even if there are modified hidden buffers.
   * ``` bn (resp. :bp) ``` → show next (resp. previous) file (buffer)
-
-
