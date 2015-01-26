@@ -1,8 +1,8 @@
-Ruby on Rails---
+---
 published: true
 title: Vim basics
 layout: post
-author: Nguyen Truong Duy
+author: Duy
 category: Vim
 tags: Vim
 ---
