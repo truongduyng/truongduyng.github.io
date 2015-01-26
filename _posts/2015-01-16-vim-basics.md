@@ -1,4 +1,4 @@
----
+Ruby on Rails---
 published: true
 title: Vim basics
 layout: post
@@ -10,7 +10,6 @@ tags: Vim
 ### Vim editor
 
 Vim editor is a powerful editor, specialy working with server. You may love it.
-
 
 ### How to install it in Ubuntu
 
