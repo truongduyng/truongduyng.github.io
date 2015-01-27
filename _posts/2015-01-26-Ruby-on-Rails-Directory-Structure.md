@@ -4,7 +4,7 @@ title: Ruby on Rails Directory Structure
 layout: post
 author: Duy
 category: Ruby on Rails
-tags: Ruby on Rails
+tags: RubyonRails
 ---
 ### Setup Ruby on Rails in Ubuntu<br><br>
 
