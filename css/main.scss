@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: 'Open Sans', sans-serif;
+$base-font-family: 'Ubuntu';
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.6em;
@@ -58,5 +58,5 @@ $on-laptop:        800px;
         "_syntax-highlighting-native" // "syntax-highlighting"
 ;
 
-@import url('http://fonts.googleapis.com/css?family=Open+Sans');
+@import url('http://fonts.googleapis.com/css?family=Ubuntu');
 

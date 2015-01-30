@@ -2,6 +2,8 @@
 published: true
 title: Vim basics
 layout: post
+image: <img src="http://en.icône.com/images/icones/1/4/vim.png" alt=""><br><br>
+summary: Vim editor is a powerful editor, specialy working with server. You may love it.
 author: Duy
 category: Vim
 tags: Vim
@@ -50,3 +52,6 @@ Run these command in terminal
   * ``` :x, ZZ or :wq ``` → save and quit (```:x``` only save if necessary)
   * ``` :q! ``` → quit without saving, also: ```:qa!``` to quit even if there are modified hidden buffers.
   * ``` bn (resp. :bp) ``` → show next (resp. previous) file (buffer)
+
+<br><br>
+References: [http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)

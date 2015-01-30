@@ -1,11 +1,12 @@
 ---
 published: true
 title: Git and Github basics
+image: <img src="http://i.stack.imgur.com/XwVzT.png" width="400px"><br><br>
+summary: Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.<br><br>Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
 layout: post
 author: Duy
 category: Git
 tags: Git
-
 ---
 
 ### Git is a version control system.
@@ -57,10 +58,9 @@ Here is Oliver Steele's image of how all it all fits together:
 
 ![Git data transport commands](http://i.stack.imgur.com/XwVzT.png "Oliver Steele's image")
 
-
 Thanks for reading! :)
-
-
+<br><br>
+References: [http://rypress.com/tutorials/git/the-basics.html](http://rypress.com/tutorials/git/the-basics.html)
 
 
 
