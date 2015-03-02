@@ -6,7 +6,7 @@ summary: This is the simplest pattern of the original GoF patterns. It helps you
 layout: post
 author: Duy
 category: Design Patterns
-tags: DesignPatterns, TemplateMethod
+tags: DesignPatterns TemplateMethod
 ---
 
 You want to build a program to teach your children to know animals. You write class animal like that:
