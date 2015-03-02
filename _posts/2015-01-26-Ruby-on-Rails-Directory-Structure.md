@@ -8,6 +8,7 @@ author: Duy
 category: Ruby on Rails
 tags: RubyonRails
 ---
+
 ### Setup Ruby on Rails in Ubuntu<br><br>
 <img src="http://i.imgur.com/LCeAWzb.jpg" alt="rails"><br><br>
 You can setup Ruby on Rails in Ubuntu by following the inductions in [https://gorails.com/setup/ubuntu/14.10](https://gorails.com/setup/ubuntu/14.10) . 
