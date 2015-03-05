@@ -21,7 +21,7 @@ After setting up Ruby and Rails, you can new a Rails app with command: ```rails 
 ![Rails Directory](https://lh4.googleusercontent.com/-32T4Pu-O8RU/VMW1PJXGGNI/AAAAAAABOmA/IDMNPS2p9Xk/s0/railsdirectory.png "Rails Directory")
 <br><br>
 
-* app : contains 6 directory. They are assets, controllers, helpers, mailers, models, views. They contains codes of your app.
+* app : contains 6 directory. They are assets, controllers, helpers, mailers, models, views. They contains codes of your app. This folder is where most of your application code will go into.
 	1. assets: contain your app's assets which are images, javacripts, stylesheets.
 
 	2. controllers: It is the C in MVC. It can be thought of as a middle man between models and views. It receives the request, process logics, get or save data from model and use a view to create HTML output.
@@ -35,7 +35,7 @@ After setting up Ruby and Rails, you can new a Rails app with command: ```rails 
 	6. views: contains your template of your controllers and layouts. The template begins with _ is partials. It help you to DRY up your views.
  <br><br>
 
-* bin : contains binary executable files
+* bin : contains binary executable script for your rails project. These are the files that get exceuted when you run rails, bundle or rake from the command line.
  <br><br>
 
 * config: Configures of your app.
@@ -85,4 +85,4 @@ After setting up Ruby and Rails, you can new a Rails app with command: ```rails 
 * .gitignore: Patterns for files that should be ignored by Git
 <br><br>
 
-Referrences: [https://www.railstutorial.org](https://www.railstutorial.org)
+Referrences: [https://www.railstutorial.org](https://www.railstutorial.org), [https://thinkster.io/angular-rails/](https://thinkster.io/angular-rails/)
