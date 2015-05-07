@@ -49,3 +49,7 @@ Blogroll:
 markdown: kramdown
 highlighter: pygments
 paginate: 5
+### sitemap
+gems:
+  - jekyll-sitemap
+
