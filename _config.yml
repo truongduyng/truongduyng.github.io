@@ -19,8 +19,8 @@ aboutme_photo: https://lh6.googleusercontent.com/-ZtnchZinRzA/VDSZgBK9IKI/AAAAAA
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
-default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
+default_column: "two"
+default_locale: "en"
 
 locales:
     en:
@@ -35,7 +35,6 @@ locales:
       PostedInCategories: "Posted in"
       Taggedwith: "and tagged"
       PostDate: "on "
-
 
 ### your Blogroll info, only name can shown on the page.
 
