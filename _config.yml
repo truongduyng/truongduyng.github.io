@@ -3,15 +3,15 @@ title: Nguyen Truong Duy
 tagline:
 author: Nguyen Truong Duy
 email: truongduyng@gmail.com
-description: My blog
+description: My technical blog
 keywords:
 baseurl:
-url: "http://ntduy.github.io"
+url: "http://truongduyng.github.io"
 
 
 ### Personal info and site tools info:
-github_username:  ntduy
-disqus_shortname: ntduy
+github_username:  truongduyng
+disqus_shortname: truongduyng
 favicon: "/images/icon.ico"
 aboutme:
 aboutme_photo: https://lh6.googleusercontent.com/-ZtnchZinRzA/VDSZgBK9IKI/AAAAAAAAABM/MqAWQsK9Eyc/w140-h140-p/Tet2013_Phoninh.jpg # your photo.
@@ -39,10 +39,6 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-    - name: Nguyen Truong Duy
-      href: http://ntduy.blogspot.com
-      title: My blogspot
-
 
 ### Build settings
 markdown: kramdown
