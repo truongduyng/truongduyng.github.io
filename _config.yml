@@ -1,50 +1,31 @@
-### Site info:
-title: Nguyen Truong Duy
-tagline:
-author: Nguyen Truong Duy
-email: truongduyng@gmail.com
-description: My technical blog
-keywords:
-baseurl:
-url: "http://truongduyng.github.io"
+# Permalinks
+permalink:        pretty
 
+# Setup
+url:              http://truongduyng.github.io
 
-### Personal info and site tools info:
-github_username:  truongduyng
-disqus_shortname: ntduy
-favicon: "/images/icon.ico"
-aboutme:
-aboutme_photo: https://lh6.googleusercontent.com/-ZtnchZinRzA/VDSZgBK9IKI/AAAAAAAAABM/MqAWQsK9Eyc/w140-h140-p/Tet2013_Phoninh.jpg # your photo.
+# Set to '' in case of hosting on `http://<your-github-name>.github.io`
+baseurl:          ''
 
+title:            Nguyen Truong Duy's personal blog.
+name:             ntduy
 
-### Site setting:
-ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
-default_column: "two"
-default_locale: "en"
+# Markdown enabled, however don't use more than one paragraph (enforced by `>`)
+description:      >
+  This is Duy's blog.
 
-locales:
-    en:
-      Aboutme: "About Me"
-      Archives: "Archives"
-      Blogroll: "Blogroll"
-      Categories: "Categories"
-      Resent_Posts: "Resent Posts"
-      Tags: "Tags"
-      Previous: "Older"
-      Next: "Newer"
-      PostedInCategories: "Posted in"
-      Taggedwith: "and tagged"
-      PostDate: "on "
+# The tags listed as entries in the sidebar
+sidebar_tags:     [Git]
 
-### your Blogroll info, only name can shown on the page.
+# Fallback image and color if not overwritten for tag or post
+image:            /public/img/nap.jpg
+color:            '#A85641'
 
-Blogroll:
+author:
+  name:           'Truong-Duy Nguyen'
+  github:         truongduyng
+  photo:          https://avatars0.githubusercontent.com/u/9413750?v=3&s=460
 
-### Build settings
-markdown: kramdown
-highlighter: pygments
-paginate: 5
-### sitemap
-gems:
-  - jekyll-sitemap
-
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:          |
+    This is Duy's blog.

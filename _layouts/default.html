@@ -1,37 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
-{% include head.html %}
+  {% include head.html %}
 
-<body>
+  <body>
 
-  <div class="container">
-
-    {% include header.html %}
-
-    {% if site.default_column == "two" %}
-
-    <div class="page-content col-sm-8">
+    <main class="content container">
       {{ content }}
-      {% include post_pagination.html %}
-    </div>
+    </main>
+
     {% include sidebar.html %}
 
-    {% else %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-    {% include post_pagination.html %}
-
-    {% endif %}
-
-    {% include footer.html %}
-
-  </div>
-
-</body>
-
+    <script src="{{ site.baseurl }}/public/js/hydejack.js" async></script>
+  </body>
 </html>
