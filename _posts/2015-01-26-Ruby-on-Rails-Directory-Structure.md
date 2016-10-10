@@ -1,25 +1,102 @@
 ---
 published: true
 title: Ruby on Rails Directory Structure
-image: <img src="http://i.imgur.com/LCeAWzb.jpg" alt="rails"><br><br>
 summary: Ruby on Rails is a web framework written in the Ruby programming language. Rails is used by Airbnb, Basecamp, Disney, Github, Hulu, Kickstarter, Shopify, Twiiter. Ruby on Rails is 100% open-source, available under the MIT lisence, and as a result it costs nothing to download and use.
 layout: post
 author: Duy
 category: Ruby on Rails
-tags: RubyonRails
+tags: Rails
 ---
 
 ### Setup Ruby on Rails in Ubuntu<br><br>
 <img src="http://i.imgur.com/LCeAWzb.jpg" alt="rails"><br><br>
-You can setup Ruby on Rails in Ubuntu by following the inductions in [https://gorails.com/setup/ubuntu/14.10](https://gorails.com/setup/ubuntu/14.10) . 
+You can setup Ruby on Rails in Ubuntu by following the inductions in [https://gorails.com/setup/ubuntu/14.10](https://gorails.com/setup/ubuntu/14.10) .
  <br><br>
 
 ### Ruby on Rails Directory Structure<br><br>
-  
-After setting up Ruby and Rails, you can new a Rails app with command: ```rails new your_app_name```. So you can see that rails generates automatically  a bunch of directories and files. I will show you what they use for.<br><br>
 
-![Rails Directory](https://lh4.googleusercontent.com/-32T4Pu-O8RU/VMW1PJXGGNI/AAAAAAABOmA/IDMNPS2p9Xk/s0/railsdirectory.png "Rails Directory")
-<br><br>
+After setting up Ruby and Rails, you can new a Rails app with command: ```rails new your_app_name```. So you can see that rails generates automatically a bunch of directories and files. I will show you what they use for.<br><br>
+
+```
+|-- app
+|   |-- assets
+|   |   |-- images
+|   |   |-- javascripts
+|   |   |   `-- application.js
+|   |   `-- stylesheets
+|   |       `-- application.css
+|   |-- controllers
+|   |   |-- application_controller.rb
+|   |   `-- concerns
+|   |-- helpers
+|   |   `-- application_helper.rb
+|   |-- mailers
+|   |-- models
+|   |   `-- concerns
+|   `-- views
+|       `-- layouts
+|           `-- application.html.erb
+|-- bin
+|   |-- bundle
+|   |-- rails
+|   |-- rake
+|   |-- setup
+|   `-- spring
+|-- config
+|   |-- application.rb
+|   |-- boot.rb
+|   |-- database.yml
+|   |-- environment.rb
+|   |-- environments
+|   |   |-- development.rb
+|   |   |-- production.rb
+|   |   `-- test.rb
+|   |-- initializers
+|   |   |-- assets.rb
+|   |   |-- backtrace_silencers.rb
+|   |   |-- cookies_serializer.rb
+|   |   |-- filter_parameter_logging.rb
+|   |   |-- inflections.rb
+|   |   |-- mime_types.rb
+|   |   |-- session_store.rb
+|   |   `-- wrap_parameters.rb
+|   |-- locales
+|   |   `-- en.yml
+|   |-- routes.rb
+|   `-- secrets.yml
+|-- config.ru
+|-- db
+|   `-- seeds.rb
+|-- Gemfile
+|-- Gemfile.lock
+|-- lib
+|   |-- assets
+|   `-- tasks
+|-- log
+|-- public
+|   |-- 404.html
+|   |-- 422.html
+|   |-- 500.html
+|   |-- favicon.ico
+|   `-- robots.txt
+|-- Rakefile
+|-- README.rdoc
+|-- test
+|   |-- controllers
+|   |-- fixtures
+|   |-- helpers
+|   |-- integration
+|   |-- mailers
+|   |-- models
+|   `-- test_helper.rb
+|-- tmp
+|   `-- cache
+|       `-- assets
+`-- vendor
+`-- assets
+    |-- javascripts
+    `-- stylesheets
+```
 
 * app : contains 6 directory. They are assets, controllers, helpers, mailers, models, views. They contains codes of your app. This folder is where most of your application code will go into.
 	1. assets: contain your app's assets which are images, javacripts, stylesheets.
@@ -43,7 +120,7 @@ After setting up Ruby and Rails, you can new a Rails app with command: ```rails 
 	2.initializers: initializes to your appications sush as cookies, sessions, assets,...
 	3. locales: config multiple languages for your app.
 	4. application.rb: config your app.
-	5. database.yml: config database you use in app. 
+	5. database.yml: config database you use in app.
 	6. routes.rb: config route of your app.
 <br><br>
 
@@ -53,7 +130,7 @@ After setting up Ruby and Rails, you can new a Rails app with command: ```rails 
 	3. seed.rb: This file should contain all the record creation needed to seed the database with its default values.
 <br><br>
 
-* lib: contains your library from you or third party. lib/assets: Library assets such as cascading style sheets (CSS), JavaCript files, and images 
+* lib: contains your library from you or third party. lib/assets: Library assets such as cascading style sheets (CSS), JavaCript files, and images
 <br><br>
 
 * log: contains your logs file of app.

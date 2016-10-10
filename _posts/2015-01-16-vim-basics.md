@@ -2,7 +2,6 @@
 published: true
 title: Vim basics
 layout: post
-image: <img src="http://en.icône.com/images/icones/1/4/vim.png" alt=""><br><br>
 summary: Vim editor is a powerful editor, specialy working with server. You may love it.
 author: Duy
 category: Vim

@@ -1,12 +1,11 @@
 ---
 published: true
 title: Template Method Pattern
-image: <img src="http://www.codeguru.com/images/article/17909/TemplePattern.png" alt="rails"><br><br>
 summary: This is the simplest pattern of the original GoF patterns. It helps you to vary an algorithm, one way to do so is to code the invariant part in a base class and to encapsulate the variable parts in methods that are defined by a number of subclasses.
 layout: post
 author: Duy
 category: Design Patterns
-tags: DesignPatterns TemplateMethod
+tag: DesignPatterns
 ---
 
 You want to build a program to teach your children to know animals. You write class animal like that:
