@@ -4,8 +4,8 @@ title: Ruby on Rails Directory Structure
 summary: Ruby on Rails is a web framework written in the Ruby programming language. Rails is used by Airbnb, Basecamp, Disney, Github, Hulu, Kickstarter, Shopify, Twiiter. Ruby on Rails is 100% open-source, available under the MIT lisence, and as a result it costs nothing to download and use.
 layout: post
 author: Duy
-category: Ruby on Rails
-tags: Rails
+category: coding
+tags: technical
 ---
 
 ### Setup Ruby on Rails in Ubuntu<br><br>

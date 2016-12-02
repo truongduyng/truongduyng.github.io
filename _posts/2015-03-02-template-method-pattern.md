@@ -4,8 +4,8 @@ title: Template Method Pattern
 summary: This is the simplest pattern of the original GoF patterns. It helps you to vary an algorithm, one way to do so is to code the invariant part in a base class and to encapsulate the variable parts in methods that are defined by a number of subclasses.
 layout: post
 author: Duy
-category: Design Patterns
-tag: DesignPatterns
+category: coding
+tag: technical
 ---
 
 You want to build a program to teach your children to know animals. You write class animal like that:

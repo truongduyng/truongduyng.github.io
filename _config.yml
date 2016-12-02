@@ -1,5 +1,5 @@
 # Permalinks
-permalink:        pretty
+permalink:        none
 
 # Setup
 url:              http://truongduyng.github.io
@@ -8,14 +8,14 @@ url:              http://truongduyng.github.io
 baseurl:          ''
 
 title:            Nguyen Truong Duy's personal blog.
-name:             ntduy
+name:             Nguyen Truong Duy
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
   This is Duy's blog.
 
 # The tags listed as entries in the sidebar
-sidebar_tags:     [Git]
+sidebar_tags:     [technical]
 
 # Fallback image and color if not overwritten for tag or post
 image:            /public/img/nap.jpg

@@ -5,7 +5,7 @@ summary: Git is a free and open source distributed version control system design
 layout: post
 author: Duy
 category: Git
-tags: Git
+tags: technical
 ---
 
 ### Git is a version control system.

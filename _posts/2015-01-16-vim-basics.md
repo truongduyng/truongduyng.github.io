@@ -4,8 +4,8 @@ title: Vim basics
 layout: post
 summary: Vim editor is a powerful editor, specialy working with server. You may love it.
 author: Duy
-category: Vim
-tags: Vim
+category: tools
+tags: technical
 ---
 
 ### Vim editor

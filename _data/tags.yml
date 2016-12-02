@@ -11,22 +11,9 @@
 #     *My Tag* is an example of how to define a custom tag.
 # ~~~
 
-Git:
-  name: Git
+technical:
+  name: Technical
   image: /public/img/nap.jpg
   color: '#949667'
   description: >
-    Git is a version control software.
-DesignPatterns:
-  name: Design Patterns
-  image: /public/img/nap.jpg
-  color: '#949667'
-  description: >
-    Design Patterns
-
-Rails:
-  name: Rails
-  image: /public/img/nap.jpg
-  color: '#949667'
-  description: >
-    Rails
+    Technical things
