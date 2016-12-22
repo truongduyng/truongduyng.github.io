@@ -16,6 +16,11 @@ layout: default
   {% assign tags_content = '' %}
 {% endif %}
 
+{% assign comments = true %}
+{% if post.comments != nil %}
+  {% assign comments = post.comments %}
+{% endif %}
+
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-date">
@@ -26,16 +31,8 @@ layout: default
   {{ content }}
 </article>
 
-{% if site.author.about %}
-<aside class="author">
-  <h2 class="aside-title">About</h2>
-
-  {% if site.author.photo %}
-  <img class="me" src="{{ site.author.photo }}" alt="{{ site.author.name }}"/>
-  {% endif %}
-
-  {{ site.author.about | markdownify }}
-</aside>
+{% if comments %}
+  <div id="disqus_thread"></div>
 {% endif %}
 
 <aside class="related">
@@ -61,3 +58,15 @@ layout: default
     {% endfor %}
   </ul>
 </aside>
+
+{% if site.author.about %}
+<aside class="author">
+  <h2 class="aside-title">About</h2>
+
+  {% if site.author.photo %}
+  <img class="me" src="{{ site.author.photo }}" alt="{{ site.author.name }}"/>
+  {% endif %}
+
+  {{ site.author.about | markdownify }}
+</aside>
+{% endif %}

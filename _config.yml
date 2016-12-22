@@ -2,7 +2,7 @@
 permalink:        none
 
 # Setup
-url:              http://truongduyng.github.io
+url:              https://truongduyng.github.io
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:          ''
