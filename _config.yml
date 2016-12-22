@@ -7,12 +7,12 @@ url:              http://truongduyng.github.io
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:          ''
 
-title:            Nguyen Truong Duy's personal blog.
-name:             Nguyen Truong Duy
+title:            Truong Duy's personal blog.
+name:             Trường Duy
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
-  This is Duy's blog.
+  write down my life's stuff
 
 # The tags listed as entries in the sidebar
 sidebar_tags:     [technical]
@@ -22,10 +22,10 @@ image:            /public/img/nap.jpg
 color:            '#A85641'
 
 author:
-  name:           'Truong-Duy Nguyen'
+  name:           'Trường Duy'
   github:         truongduyng
   photo:          https://avatars0.githubusercontent.com/u/9413750?v=3&s=460
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    This is Duy's blog.
+    Developer. Beginner of photographer, writer, farmer, entrepreneur. Psychology, sports enthusiasts. Vietnamese.
