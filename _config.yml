@@ -15,7 +15,7 @@ description:      >
   write down my life's stuff
 
 # The tags listed as entries in the sidebar
-sidebar_tags:     [technical]
+sidebar_tags:     []
 
 # Fallback image and color if not overwritten for tag or post
 image:            /public/img/nap.jpg
