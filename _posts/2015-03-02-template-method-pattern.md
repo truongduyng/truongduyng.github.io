@@ -2,8 +2,7 @@
 published: true
 title: Template Method Pattern
 layout: post
-category: coding
-tag: technical
+tag: ruby
 ---
 
 You want to build a program to teach your children to know animals. You write class animal like that:

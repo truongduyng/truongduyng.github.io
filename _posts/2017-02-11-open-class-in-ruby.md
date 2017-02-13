@@ -2,8 +2,7 @@
 published: true
 title: Open class in Ruby
 layout: post
-category: Ruby
-tags: technical
+tags: ruby
 ---
 
 Trong ruby, không có sự khác biệt thực sự giữa code định nghĩa lớp và code của bất cứ loại nào khác.

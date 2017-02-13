@@ -17,3 +17,9 @@ technical:
   color: '#A85641'
   description: >
     Technical things
+ruby:
+  name: Ruby
+  image: /public/img/nap.jpg
+  color: '#A85641'
+  description: >
+    Knowledge about Ruby programming language
