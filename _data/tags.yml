@@ -23,3 +23,10 @@ ruby:
   color: '#A85641'
   description: >
     Knowledge about Ruby programming language
+rails:
+  name: Rails
+  image: /public/img/nap.jpg
+  color: '#A85641'
+  description: >
+    Knowledge about Rails web framework
+
