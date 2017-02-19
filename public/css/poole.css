@@ -314,6 +314,10 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 1em;
 }
 
+.post p {
+  text-align: justify;
+}
+
 /* Blog post or page title */
 .page-title,
 .post-title,
