@@ -5,6 +5,8 @@ title: Chế độ ăn lành mạnh cho một sức khỏe tốt
 
 ### Con người là động vật ăn tạp nhưng hơn 85% là từ thực vật
 
+
+
 Để biết một loài động vật là động ăn cỏ, ăn thịt hay ăn tạp, người ta hay dựa vào các đặc điểm sinh lý của bộ máy tiêu hóa của động vật đó. Về cơ bản chúng ta có thể dựa vào cấu tạo răng hàm và ruột.
 
 Với các động vật ăn thịt, răng thường sắc nhọn, bén để xé thịt. Dạ dày của chúng thì ngắn, khoảng 1 đến 2 so với độ dài cơ thể. Bởi vì thịt dễ bị lên men sinh ra các chất độc hại nên cần có ruột ngắn để thải chúng ra nhanh. Động vật ăn cỏ thì chủ yếu là các răng vuông có chức năng nghiền cỏ và mỏng để nhai cỏ. Dạ dày thưòng dài từ 5 đến 7 so với độ dài cơ thể.
@@ -14,6 +16,8 @@ Con người có tất cả 32 cái răng sau khi trưởng thành, trong đó c
 Từ tỉ lệ răng chúng ta thể suy ra con người nên ăn 87.5% thức ăn thực vật và 12,5% còn lại là động vật.
 
 ### Chế độ ăn lành mạnh
+
+![plant-based foods](https://c1.staticflickr.com/3/2571/33103817476_3b53ab2543_b.jpg "thức ăn thực vật")
 
 Sau đây là những lời khuyên cho chế độ ăn lành mạnh của bác sĩ Hiromi Shinya được tôi tóm gọn lại.
 

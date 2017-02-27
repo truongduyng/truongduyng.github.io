@@ -5,6 +5,8 @@ title: High-tech and natural/organic agriculture
 
 Nông nghiệp công nghệ cao là nền nông nghiệp áp dụng khoa học kỹ thuật công nghệ để tạo và kiểm soát các yếu tố ảnh hưỏng tới sự phát triển của cây trồng nhằm phục vụ nhu cầu của con người. Chúng ta có thể kiểm soát ánh sáng, độ ẩm, nhiệt độ, các chất dinh dưỡng/ phân bón, đất hay giá thể, kiểm soát côn trùng, dịch hại. Tùy theo cây trồng mà con người có thể điều chỉnh các yếu tố để cây trồng được phát triển tốt nhất, đẹp nhất. Tất cả hiện nay có thể làm tự động được nếu như người trồng hiểu được sinh lý của cây mình trồng.
 
+![nông nghiệp](https://c1.staticflickr.com/4/3944/32761237960_1fe9e229eb_b.jpg "ruộng cải")
+
 Nhưng không phải là tất cả và con người không phải là tự nhiên. Các sản phẩm nông nghiệp công nghệ cao rất đẹp, an toàn và ăn khá ngon. Nhưng thiếu chất và thiếu nhiều nhất là các enzyme. Nhà màn ngăn các tia cực tím/UV nên cây trồng không sản xuất ra các enzyme chống oxy hóa nữa. Côn trùng bị tiêu diệt nên cây trồng không hấp thu được khoáng chất từ lớp vỏ của côn trùng. Môi trường nuôi dưỡng cây trồng được pha chế từ các hoạt chất bạn có thể mua được từ các cửa hàng hóa chất. Chúng được tổng hợp các hoạt chất cơ bản giúp cây phát triển nhưng dinh dưỡng vi lượng thì thiếu rất nhiều. Thiếu vi lượng nên không thể có enzyme.
 
 Thiếu nhiều enzyme nên khi ăn các sản phẩm nông nghiệp này, con người không bao giờ thấy ngon như khi xưa người ta ăn sản phẩm tự nhiên.
