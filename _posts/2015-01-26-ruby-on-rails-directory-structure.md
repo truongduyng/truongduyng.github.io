@@ -2,7 +2,6 @@
 published: true
 title: Ruby on Rails Directory Structure
 layout: post
-category: coding
 tags: technical
 ---
 

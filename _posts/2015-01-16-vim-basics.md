@@ -2,7 +2,6 @@
 published: true
 title: Vim basics
 layout: post
-category: tools
 tags: technical
 ---
 

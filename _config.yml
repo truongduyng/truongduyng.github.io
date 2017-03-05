@@ -21,6 +21,9 @@ sidebar_tags:     []
 image:            /public/img/nap.jpg
 color:            '#A85641'
 
+gems:
+  - jekyll-sitemap
+
 author:
   name:           'Trường Duy'
   github:         truongduyng

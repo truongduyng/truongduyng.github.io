@@ -2,7 +2,6 @@
 published: true
 title: Git and Github basics
 layout: post
-category: Git
 tags: technical
 ---
 
