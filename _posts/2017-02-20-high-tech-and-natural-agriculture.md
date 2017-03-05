@@ -1,6 +1,7 @@
 ---
 layout: post
 title: High-tech and natural/organic agriculture
+tag: agriculture
 ---
 
 Nông nghiệp công nghệ cao là nền nông nghiệp áp dụng khoa học kỹ thuật công nghệ để tạo và kiểm soát các yếu tố ảnh hưỏng tới sự phát triển của cây trồng nhằm phục vụ nhu cầu của con người. Chúng ta có thể kiểm soát ánh sáng, độ ẩm, nhiệt độ, các chất dinh dưỡng/ phân bón, đất hay giá thể, kiểm soát côn trùng, dịch hại. Tùy theo cây trồng mà con người có thể điều chỉnh các yếu tố để cây trồng được phát triển tốt nhất, đẹp nhất. Tất cả hiện nay có thể làm tự động được nếu như người trồng hiểu được sinh lý của cây mình trồng.

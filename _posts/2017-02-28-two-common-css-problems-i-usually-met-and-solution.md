@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Two common CSS problems I usually met and solution
+title: Two common CSS problems I usually meet and solution
+tag: frontend
 ---
 
 * ### Footer need to be always at the bottom

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Chế độ ăn lành mạnh cho một sức khỏe tốt
+tag: health
 ---
 
 ### Con người là động vật ăn tạp nhưng hơn 85% là từ thực vật

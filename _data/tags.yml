@@ -29,4 +29,21 @@ rails:
   color: '#A85641'
   description: >
     Knowledge about Rails web framework
-
+agriculture:
+  name: Agriculture
+  image: /public/img/nap.jpg
+  color: '#A85641'
+  description: >
+    Knowledge about Agriculture
+health:
+  name: Health
+  image: /public/img/nap.jpg
+  color: '#A85641'
+  description: >
+    Healthy life
+frontend:
+  name: Front-end
+  image: /public/img/nap.jpg
+  color: '#A85641'
+  description: >
+    Front-end things

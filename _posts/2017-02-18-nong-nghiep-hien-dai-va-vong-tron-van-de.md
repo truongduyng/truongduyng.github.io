@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nông nghiệp hiện đại và vòng tròn vấn đề của thế giới
+tag: agriculture
 ---
 
 ## Sự phát triển của ngành nghề lâu đời nhất thế giới
