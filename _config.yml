@@ -7,7 +7,7 @@ url:              https://truongduyng.github.io
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:          ''
 
-title:            Truong Duy's personal blog.
+title:            Nguyen Truong Duy
 name:             Trường Duy
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)

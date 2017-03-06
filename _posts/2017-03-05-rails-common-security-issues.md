@@ -38,7 +38,7 @@ tag: rails
 
   ##### Cách chống:
   1. Dùng hàm `sanitize()` để filter user input.
-  2. Dùng hàm `escapeHTML()` hay tên rút gọn h() để thay thế các ký tự nhập vào `&, ", <, > bằng dạng hiện thị của chúng (&amp;, &quot;, &lt;, and &gt;). Dùng gem `SafeErb` để nhắc nhở.
+  2. Dùng hàm `escapeHTML()` hay tên rút gọn h() để thay thế các ký tự nhập vào `&, ", <, >` bằng dạng hiện thị của chúng `&amp;, &quot;, &lt;, and &gt;`. Dùng gem `SafeErb` để nhắc nhở.
 
     {% highlight ruby %}
       tags = %w(a acronym b strong i em li ul ol h1 h2 h3 h4 h5 h6 \

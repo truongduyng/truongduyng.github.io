@@ -29,4 +29,4 @@ obj.y # => "y"
 
 Ở đây chúng ta có thể dùng kỹ thuật này (Open Class) để mở các lớp có sẵn, thậm chí là các lớp của Ruby, để chỉnh sửa. Kỹ thuật này giúp chúng ta có thể thêm thắt, viết lại cái hàm của lớp đã được định nghĩa trong thư viện (monkey patching). Mặt trái của nó là khi chúng ta chỉnh sửa hành vi các phương thức của thư viện chuẩn sẽ làm phần mềm khó test và kiểm soát. Nhiều khi khiến phần mềm chạy lỗi hoàn toàn.
 
-Có một số người khó tính thưòng hoàn toàn không khuyễn khích các lập trình viên sử dụng kỹ thuật này. Nếu muốn làm việc gì đó, hãy tự viết hàm hay lớp cho nó.
+Có một số người khó tính thưòng hoàn toàn không khuyến khích các lập trình viên sử dụng kỹ thuật này. Nếu muốn làm việc gì đó, hãy tự viết hàm hay lớp cho nó.
