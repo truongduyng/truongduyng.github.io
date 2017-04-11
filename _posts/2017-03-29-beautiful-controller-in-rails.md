@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Beautiful controller in rails
+tag: rails
 ---
 
 Your controllers is too fat and messy. You want to make them better. You should be follow these rules:
@@ -11,8 +12,7 @@ Your controllers is too fat and messy. You want to make them better. You should 
 
 When user's interactions are normalized to CRUD. Our controller could be like this
 
-{% highlight ruby %}
-
+```ruby
 class ObjectController < ApplicationController
 
   def index
@@ -78,8 +78,7 @@ class ObjectController < ApplicationController
   end
 
 end
-
-{% endhighlight %}
+```
 
 Since there is a lot of user's interactions that don't fit to one model or don't result in database like sign in form. So in order to use the powerful of ActiveRecord (validation, callbacks and views automatically render errors), we could use `activetype` gem.
 

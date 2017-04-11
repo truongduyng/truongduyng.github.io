@@ -155,7 +155,7 @@ pre {
   display: block;
   margin-top: 0;
   margin-bottom: 1rem;
-  padding: 1rem;
+  padding: 0.8rem;
   line-height: 1.4;
   /* Prevent code linebreaks and allow side-scrolling (much better readability on mobile) */
   /*white-space: pre;
@@ -165,11 +165,8 @@ pre {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   background-color: #f9f9f9;
-
-  /* Make code same width as regular text, and scroll the full page width on mobile */
-  margin-left: -1rem;
-  margin-right: -1rem;
 }
+
 pre code {
   padding: 0;
   color: inherit;
