@@ -21,7 +21,7 @@ sidebar_tags:     []
 image:            /public/img/nap.jpg
 color:            '#A85641'
 
-gems:
+plugins:
   - jekyll-sitemap
 
 author:
@@ -31,4 +31,4 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    Developer. Beginner of photographer, writer, farmer, entrepreneur. Psychology, sports enthusiasts. Vietnamese.
+    Developer, Sports and Nature enthusiasts. Vietnamese.
