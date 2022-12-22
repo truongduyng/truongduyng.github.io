@@ -32,3 +32,12 @@ author:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
     Developer, Sports and Nature enthusiasts. Vietnamese.
+
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
