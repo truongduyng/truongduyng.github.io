@@ -34,10 +34,4 @@ author:
     Developer, Sports and Nature enthusiasts. Vietnamese.
 
 jekyll_admin:
-  hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
-  homepage: "pages"
+  homepage: "posts"
